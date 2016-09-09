@@ -1,3 +1,4 @@
+<?php
 <html>
 <head>
 <title>Class Info</title>
@@ -15,3 +16,4 @@ class:<select name="pages" onchange="this.form.submit();">
 <?php echo $result;?>
 </body>
 </html>
+?>
